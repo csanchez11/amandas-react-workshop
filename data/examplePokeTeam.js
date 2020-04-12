@@ -1,5 +1,5 @@
-/* 
-This file shows a PORTION of the pokemon data object that is returned when 
+/*
+This file shows a PORTION of the pokemon data object that is returned when
 you make a request to the PokeAPI server.
 */
 
